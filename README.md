@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on <a href="https://www.doodex.net/">Odoo<a/>, **Django, Android, Nodejs, PostgreSQL, Laravel**
+- 🔭 I’m currently working on Odoo, **Django, Android, Nodejs, PostgreSQL, Laravel**
 
 - 🌱 I’m currently learning **to be an Expert**
 
